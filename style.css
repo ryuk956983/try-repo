@@ -6,56 +6,56 @@
 }
 @font-face {
     font-family: "FREESCPT";
-    src: url("/FREESCPT.TTF");
+    src: url("./FREESCPT.TTF");
     font-weight:800;
     font-style: normal;
 }
 @font-face {
     font-family: "VLADIMIR";
-    src: url("/VLADIMIR.TTF");
+    src: url("./VLADIMIR.TTF");
     font-weight:800;
     font-style: normal;
 }
 @font-face {
     font-family: "LHANDW";
-    src: url("/LHANDW.TTF");
+    src: url("./LHANDW.TTF");
     font-weight:800;
     font-style: normal;
 }
 @font-face {
     font-family: "AGENCYR";
-    src: url("/AGENCYR.TTF");
+    src: url("./AGENCYR.TTF");
     font-weight:800;
     font-style: normal;
 }
 @font-face {
     font-family: "STYLU";
-    src: url("/stylu.ttf");
+    src: url("./stylu.ttf");
     font-weight:800;
     font-style: normal;
 }
 @font-face {
     font-family: "VERDANA";
-    src: url("/verdanai.ttf");
+    src: url("./verdanai.ttf");
     font-weight:800;
     font-style: normal;
 }
 @font-face {
     font-family: "MTCORSVA";
-    src: url("/MTCORSVA.TTF");
+    src: url("./MTCORSVA.TTF");
     font-weight:800;
     font-style: normal;
 }
 @font-face {
     font-family: "MISTRAL";
-    src: url("/MISTRAL.TTF");
+    src: url("./MISTRAL.TTF");
     font-weight:800;
     font-style: normal;
     
 }
 @font-face {
     font-family: "BGOTHL";
-    src: url("/bgothl.ttf");
+    src: url("./bgothl.ttf");
     font-weight:800;
     font-style: normal;
 }
@@ -76,7 +76,7 @@ hr{
     
 }
 .image-back{
-background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(./roombg.jpeg);
+background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url('./roombg.jpeg');
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
